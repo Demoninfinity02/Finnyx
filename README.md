@@ -1,2 +1,12 @@
-# Finnyx
-The Unified Stock Market News Chatbot is a centralized AI-powered tool for investors and traders, aggregating daily market news, technical analysis, fundamental data, and insights. It delivers real-time updates and personalized information through an intuitive interface. Users can access chart-based technical trends, financial metrics, and expert opinions seamlessly. The chatbot simplifies complex market data, enabling efficient decision-making. By consolidating diverse sources, it transforms how market participants engage with financial information. This solution empowers users with timely, actionable insights for a competitive edge.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
